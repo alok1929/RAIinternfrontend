@@ -2,9 +2,9 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["src/components/*"]  // Adjust the path based on your directory structure
+      "@components/*": ["src/components/*"] // Adjust the path based on your directory structure
     },
-    "moduleResolution": "node",  // or "nodenext" if needed
+    "moduleResolution": "node", // or "nodenext" if needed
     "jsx": "react-jsx",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true
